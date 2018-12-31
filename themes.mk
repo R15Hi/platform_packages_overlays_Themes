@@ -99,4 +99,9 @@ PRODUCT_PACKAGES += \
 # Icons
 PRODUCT_PACKAGES += \
     IconPackOneOverlay \
-    IconPackMiuiOverlay 
+    IconPackMiuiOverlay
+
+# Cutout control overlays
+PRODUCT_PACKAGES += \
+    HideCutout \
+    StatusBarStock
