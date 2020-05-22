@@ -51,3 +51,11 @@ PRODUCT_PACKAGES += \
     IconShapeCloudyOverlay \
     IconShapeCylindricalOverlay \
     IconShapeStretchedOverlay
+
+# Switch themes
+PRODUCT_PACKAGES += \
+    SwitchOnePlus \
+    SwitchStock \
+    Contained \
+    Retro \
+    Narrow
