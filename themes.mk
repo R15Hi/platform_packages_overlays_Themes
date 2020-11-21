@@ -12,28 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Accents
-PRODUCT_PACKAGES += \
-    AccentColorAmberOverlay \
-    AccentColorBlueOverlay \
-    AccentColorBlueGreyOverlay \
-    AccentColorBrownOverlay \
-    AccentColorCyanOverlay \
-    AccentColorDeepOrangeOverlay \
-    AccentColorDeepPurpleOverlay \
-    AccentColorGreyOverlay \
-    AccentColorIndigoOverlay \
-    AccentColorLightBlueOverlay \
-    AccentColorLightGreenOverlay \
-    AccentColorLimeOverlay \
-    AccentColorOrangeOverlay \
-    AccentColorPinkOverlay \
-    AccentColorRedOverlay \
-    AccentColorTealOverlay \
-    AccentColorYellowOverlay \
-    AccentColorExtendedGreenOverlay \
-    AccentColorElegantGreenOverlay
-
 # Fonts
 LOCAL_PATH := packages/overlays/Themes/fonts
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/ttf,$(TARGET_COPY_OUT_PRODUCT)/fonts)
