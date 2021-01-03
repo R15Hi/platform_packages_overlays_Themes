@@ -58,4 +58,7 @@ PRODUCT_PACKAGES += \
     SwitchStock \
     Contained \
     Retro \
-    Narrow
+    Narrow \
+    MD2 \
+    Retro \
+    Telegram
