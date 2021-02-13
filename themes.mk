@@ -62,3 +62,7 @@ PRODUCT_PACKAGES += \
     Retro \
     Telegram \
     Stockish
+
+# Brightness sliders Styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderMemeRoundStroke
