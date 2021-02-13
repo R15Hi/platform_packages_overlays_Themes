@@ -65,4 +65,5 @@ PRODUCT_PACKAGES += \
 
 # Brightness sliders Styles
 PRODUCT_PACKAGES += \
-    BrightnessSliderMemeRoundStroke
+    BrightnessSliderMemeRoundStroke \
+    BrightnessSliderOOS
