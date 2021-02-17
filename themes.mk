@@ -77,9 +77,11 @@ PRODUCT_PACKAGES += \
     GVM-URM-M \
     GVM-URM-L \
     GVM-URM-R \
+    GVM-PGM-BLUE \
     GVM-PGM-ORCD \
     GVM-PGM-OPRD \
-    GVM-PGM-PURP
+    GVM-PGM-PURP \
+    GVM-PGM-ROSE
 
 # Gesture radius
 PRODUCT_PACKAGES += \
