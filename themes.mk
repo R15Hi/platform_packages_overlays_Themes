@@ -66,7 +66,8 @@ PRODUCT_PACKAGES += \
 # Brightness sliders Styles
 PRODUCT_PACKAGES += \
     BrightnessSliderMemeRoundStroke \
-    BrightnessSliderOOS
+    BrightnessSliderOOS \
+    BrightnessSliderRUI
 
 # GVM
 PRODUCT_PACKAGES += \
