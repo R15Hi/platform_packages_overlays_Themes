@@ -88,3 +88,11 @@ PRODUCT_PACKAGES += \
     GesturalNavigationRadiusLow \
     GesturalNavigationRadiusVeryLow \
     GesturalNavigationRadiusHidden
+
+# Navbar
+PRODUCT_PACKAGES += \
+    NavbarAsusOverlay \
+    NavbarOnePlusOverlay \
+    NavbarOneUiOverlay \
+    NavbarTecnoCamonOverlay \
+    IconPackOneOverlay
