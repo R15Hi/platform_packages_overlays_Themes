@@ -95,4 +95,8 @@ PRODUCT_PACKAGES += \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
     NavbarTecnoCamonOverlay \
-    IconPackOneOverlay
+
+# Icons
+PRODUCT_PACKAGES += \
+    IconPackOneOverlay \
+    IconPackMiuiOverlay 
