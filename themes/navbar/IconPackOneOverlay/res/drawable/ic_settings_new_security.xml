@@ -9,7 +9,7 @@
       android:strokeLineJoin="round"
       android:strokeWidth="1.5"
       android:fillColor="#00000000"
-      android:strokeColor="#ff6c6c"
+      android:strokeColor="@color/ic_lock"
       android:fillAlpha="0.4"
       android:strokeLineCap="round"/>
   <path
@@ -18,13 +18,13 @@
       android:strokeWidth="1.5"
       android:fillColor="#00000000"
       android:fillType="evenOdd"
-      android:strokeColor="#ff6c6c"
+      android:strokeColor="@color/ic_lock"
       android:strokeLineCap="round"/>
   <path
       android:pathData="M12.053,14.617v2.641"
       android:strokeLineJoin="round"
       android:strokeWidth="1.5"
       android:fillColor="#00000000"
-      android:strokeColor="#ff6c6c"
+      android:strokeColor="@color/ic_lock"
       android:strokeLineCap="round"/>
 </vector>

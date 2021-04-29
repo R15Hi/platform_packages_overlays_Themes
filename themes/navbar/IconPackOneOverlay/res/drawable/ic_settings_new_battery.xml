@@ -5,16 +5,16 @@
     android:viewportHeight="24">
   <path
       android:pathData="M13.3248,10.8222A0.917,0.917 0,1 0,11.9068 9.6642ZM10.0808,13.3382 L9.3718,12.7572a0.917,0.917 0,0 0,0.709 1.5ZM13.8808,13.3382 L14.5898,13.9192a0.917,0.917 0,0 0,-0.709 -1.5ZM10.6358,15.8542a0.917,0.917 0,0 0,1.419 1.161ZM11.9068,9.6642l-2.535,3.1 1.419,1.161 2.535,-3.1ZM10.0808,14.2582h3.8L13.8808,12.4222h-3.8ZM13.1738,12.7582 L10.6388,15.8582 12.0578,17.0192 14.5928,13.9192Z"
-      android:fillColor="#ff777b"
+      android:fillColor="@color/ic_battery"
       android:fillAlpha="0.4"/>
   <path
       android:pathData="M8,3.9438L16.667,3.9438A2.5,2.5 0,0 1,19.167 6.4438L19.167,19.9998A2.5,2.5 0,0 1,16.667 22.4998L8,22.4998A2.5,2.5 0,0 1,5.5 19.9998L5.5,6.4438A2.5,2.5 0,0 1,8 3.9438z"
       android:strokeWidth="1"
       android:fillColor="#00000000"
-      android:strokeColor="#ff777b"/>
+      android:strokeColor="@color/ic_battery"/>
   <path
       android:pathData="M9.278,1.5L15.389,1.5A0.111,0.111 0,0 1,15.5 1.611L15.5,1.611A0.111,0.111 0,0 1,15.389 1.722L9.278,1.722A0.111,0.111 0,0 1,9.167 1.611L9.167,1.611A0.111,0.111 0,0 1,9.278 1.5z"
       android:strokeWidth="1"
       android:fillColor="#00000000"
-      android:strokeColor="#ff777b"/>
+      android:strokeColor="@color/ic_battery"/>
 </vector>
