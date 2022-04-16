@@ -61,7 +61,8 @@ PRODUCT_PACKAGES += \
     MD2 \
     Retro \
     Telegram \
-    Stockish
+    Stockish \
+    A12
 
 # Brightness sliders Styles
 PRODUCT_PACKAGES += \
