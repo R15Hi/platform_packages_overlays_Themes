@@ -62,7 +62,13 @@ PRODUCT_PACKAGES += \
     Retro \
     Telegram \
     Stockish \
-    A12
+    A12 \
+    Colors \
+    Emotic \
+    Gassist \
+    Moon \
+    Small \
+    Weird
 
 # Brightness sliders Styles
 PRODUCT_PACKAGES += \
